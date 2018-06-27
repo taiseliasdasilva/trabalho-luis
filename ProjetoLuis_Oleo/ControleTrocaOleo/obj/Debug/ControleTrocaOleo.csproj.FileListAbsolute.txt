@@ -1,0 +1,31 @@
+c:\users\niick\documents\visual studio 2017\Projects\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.csprojResolveAssemblyReference.cache
+c:\users\niick\documents\visual studio 2017\Projects\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.frmControleTroca.resources
+c:\users\niick\documents\visual studio 2017\Projects\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.frmLogin.resources
+c:\users\niick\documents\visual studio 2017\Projects\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.Properties.Resources.resources
+c:\users\niick\documents\visual studio 2017\Projects\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.csproj.GenerateResource.Cache
+c:\users\niick\documents\visual studio 2017\Projects\ProjetoLuis_Oleo\ControleTrocaOleo\bin\Debug\ControleTrocaOleo.exe.config
+c:\users\niick\documents\visual studio 2017\Projects\ProjetoLuis_Oleo\ControleTrocaOleo\bin\Debug\ControleTrocaOleo.exe
+c:\users\niick\documents\visual studio 2017\Projects\ProjetoLuis_Oleo\ControleTrocaOleo\bin\Debug\ControleTrocaOleo.pdb
+c:\users\niick\documents\visual studio 2017\Projects\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.exe
+c:\users\niick\documents\visual studio 2017\Projects\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.pdb
+C:\Users\niick\Documents\GitHub\TrabalhoLuis\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.csprojResolveAssemblyReference.cache
+C:\Users\niick\Documents\GitHub\TrabalhoLuis\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.frmControleTroca.resources
+C:\Users\niick\Documents\GitHub\TrabalhoLuis\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.frmLogin.resources
+C:\Users\niick\Documents\GitHub\TrabalhoLuis\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.Properties.Resources.resources
+C:\Users\niick\Documents\GitHub\TrabalhoLuis\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.csproj.GenerateResource.Cache
+C:\Users\niick\Documents\GitHub\TrabalhoLuis\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.exe
+C:\Users\niick\Documents\GitHub\TrabalhoLuis\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.pdb
+C:\Users\niick\Documents\GitHub\TrabalhoLuis\ProjetoLuis_Oleo\ControleTrocaOleo\bin\Debug\ControleTrocaOleo.exe.config
+C:\Users\niick\Documents\GitHub\TrabalhoLuis\ProjetoLuis_Oleo\ControleTrocaOleo\bin\Debug\ControleTrocaOleo.exe
+C:\Users\niick\Documents\GitHub\TrabalhoLuis\ProjetoLuis_Oleo\ControleTrocaOleo\bin\Debug\ControleTrocaOleo.pdb
+C:\Users\win10\Downloads\TrabalhoLuis-master\TrabalhoLuis-master\ProjetoLuis_Oleo\ControleTrocaOleo\bin\Debug\ControleTrocaOleo.exe.config
+C:\Users\win10\Downloads\TrabalhoLuis-master\TrabalhoLuis-master\ProjetoLuis_Oleo\ControleTrocaOleo\bin\Debug\ControleTrocaOleo.exe
+C:\Users\win10\Downloads\TrabalhoLuis-master\TrabalhoLuis-master\ProjetoLuis_Oleo\ControleTrocaOleo\bin\Debug\ControleTrocaOleo.pdb
+C:\Users\win10\Downloads\TrabalhoLuis-master\TrabalhoLuis-master\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.csprojAssemblyReference.cache
+C:\Users\win10\Downloads\TrabalhoLuis-master\TrabalhoLuis-master\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.frmControleTroca.resources
+C:\Users\win10\Downloads\TrabalhoLuis-master\TrabalhoLuis-master\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.Properties.Resources.resources
+C:\Users\win10\Downloads\TrabalhoLuis-master\TrabalhoLuis-master\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.csproj.GenerateResource.cache
+C:\Users\win10\Downloads\TrabalhoLuis-master\TrabalhoLuis-master\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.csproj.CoreCompileInputs.cache
+C:\Users\win10\Downloads\TrabalhoLuis-master\TrabalhoLuis-master\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.exe
+C:\Users\win10\Downloads\TrabalhoLuis-master\TrabalhoLuis-master\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.pdb
+C:\Users\win10\Downloads\TrabalhoLuis-master\TrabalhoLuis-master\ProjetoLuis_Oleo\ControleTrocaOleo\obj\Debug\ControleTrocaOleo.Form1.resources
