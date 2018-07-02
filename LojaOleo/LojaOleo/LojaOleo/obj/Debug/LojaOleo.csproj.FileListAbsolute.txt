@@ -1,0 +1,19 @@
+E:\Programação de app\LojaOleo\LojaOleo\bin\Debug\LojaOleo.exe.config
+E:\Programação de app\LojaOleo\LojaOleo\bin\Debug\LojaOleo.exe
+E:\Programação de app\LojaOleo\LojaOleo\bin\Debug\LojaOleo.pdb
+E:\Programação de app\LojaOleo\LojaOleo\obj\Debug\LojaOleo.csprojResolveAssemblyReference.cache
+E:\Programação de app\LojaOleo\LojaOleo\obj\Debug\LojaOleo.Form1.resources
+E:\Programação de app\LojaOleo\LojaOleo\obj\Debug\LojaOleo.Properties.Resources.resources
+E:\Programação de app\LojaOleo\LojaOleo\obj\Debug\LojaOleo.csproj.GenerateResource.Cache
+E:\Programação de app\LojaOleo\LojaOleo\obj\Debug\LojaOleo.exe
+E:\Programação de app\LojaOleo\LojaOleo\obj\Debug\LojaOleo.pdb
+C:\Users\Aluno\Downloads\LojaOleo\LojaOleo\LojaOleo\bin\Debug\LojaOleo.exe.config
+C:\Users\Aluno\Downloads\LojaOleo\LojaOleo\LojaOleo\obj\Debug\LojaOleo.exe
+C:\Users\Aluno\Downloads\LojaOleo\LojaOleo\LojaOleo\obj\Debug\LojaOleo.pdb
+C:\Users\Aluno\Downloads\LojaOleo\LojaOleo\LojaOleo\bin\Debug\LojaOleo.exe
+C:\Users\Aluno\Downloads\LojaOleo\LojaOleo\LojaOleo\bin\Debug\LojaOleo.pdb
+C:\Users\Aluno\Downloads\LojaOleo\LojaOleo\LojaOleo\obj\Debug\LojaOleo.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\LojaOleo\LojaOleo\LojaOleo\obj\Debug\LojaOleo.CadastroServiço.resources
+C:\Users\Aluno\Downloads\LojaOleo\LojaOleo\LojaOleo\obj\Debug\LojaOleo.Form1.resources
+C:\Users\Aluno\Downloads\LojaOleo\LojaOleo\LojaOleo\obj\Debug\LojaOleo.Properties.Resources.resources
+C:\Users\Aluno\Downloads\LojaOleo\LojaOleo\LojaOleo\obj\Debug\LojaOleo.csproj.GenerateResource.Cache

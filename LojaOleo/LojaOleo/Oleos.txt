@@ -1,0 +1,10 @@
+1010;F1 Master;Sintetico verde;OW20SN;Ipiranga;34.90
+1011;F1 Master;Sintetico;5W40 508;Ipiranga;43.90
+1012;F1 Master;Sintetico;5W40 502;Ipiranga;45.90
+1013;F1 Master;Sintetico;5W30 SN;Ipiranga;33.90
+1014;F1 Master;Sintetico;10W40 SM;Ipiranga;32.00
+1015;F1 Master;Sintetico;5W30 SN/RC;Ipiranga;50.00
+1016;F1 Master;Performace;15W40 SL;Ipiranga;29.00
+1017;F1 Master;Performace;15W50 SL CI/4;Ipiranga;32.00
+1110;Supra MX;Sintetico Racing;5W30;Supra;28.00
+1111;Supra MX;Semi Sintetico;15W40;Supra;33.00
